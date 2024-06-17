@@ -3,11 +3,11 @@
 ====================
 
 * device/xiaomi/garnet
-3eb354a  garnet: Dolby: Enable bass-enhancer for Headphones, Speakers & Other Devices  [johnmart19]
+f3bbe2b  garnet overlay: Update CarrierConfig overlay from GARNETINGlobal_OS1.0.7.0.UNRINXM  [AdarshGrewal]
 
 
 * frameworks/base
-7b2f834  base: Update `lint-baseline.txt`  [Aman Singh]
+b4fee79  base: Update `lint-baseline.txt`  [Aman Singh]
 94870eb  core: Update freeze IDs for UDC QPR2 used by HbmSvManager  [Alvin Francis]
 
 
@@ -35,13 +35,13 @@ fb1b114  derp: json generate community build  [moewob]
     06-16-2024     
 ====================
 
-* vendor/xiaomi/garnet
-9160a64  garnet: media: Import `media_codecs` from stock  [ramshell688]
-
-
 ====================
     06-15-2024     
 ====================
+
+* vendor/xiaomi/garnet
+9160a64  garnet: media: Import `media_codecs` from stock  [ramshell688]
+
 
 ====================
     06-14-2024     

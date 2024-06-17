@@ -1,7 +1,75 @@
-Changelog:
 ====================
-  16-06-2024
+    06-17-2024     
 ====================
-Source Changelog:
-- Update the security patch to June 2024
-- Increased system security
+
+* device/xiaomi/garnet
+3eb354a  garnet: Dolby: Enable bass-enhancer for Headphones, Speakers & Other Devices  [johnmart19]
+
+
+* frameworks/base
+7b2f834  base: Update `lint-baseline.txt`  [Aman Singh]
+94870eb  core: Update freeze IDs for UDC QPR2 used by HbmSvManager  [Alvin Francis]
+
+
+* packages/apps/Flash
+538f894  Automatic translation import  [LineageOS Infra]
+
+
+* packages/apps/GameSpace
+a997726  GameSpace: Apply opacity settings to menu switcher and game bar  [Pranav Vashi]
+
+
+* packages/apps/Updater
+6efadf7  Updater: changes for garnet  [moewob]
+
+
+* vendor/bcr
+c8a1d62  Version 1.64  [chaitanyakm]
+
+
+* vendor/derp
+fb1b114  derp: json generate community build  [moewob]
+
+
+====================
+    06-16-2024     
+====================
+
+* vendor/xiaomi/garnet
+9160a64  garnet: media: Import `media_codecs` from stock  [ramshell688]
+
+
+====================
+    06-15-2024     
+====================
+
+====================
+    06-14-2024     
+====================
+
+* bootable/recovery
+b6f20b1  Add e2fsck/resize2fs/tune2fs to recovery  [Michael Bestas]
+
+
+* build/make
+fe776e4  Revert "Add e2fsck/resize2fs/tune2fs to recovery/vendor_ramdisk"  [Alexander Winkowski]
+
+
+* frameworks/av
+e30837b  mp3dec: Update input buffer validation checks to handle EOS case  [Harish Mahendrakar]
+
+
+* hardware/qcom-caf/common
+4751664  libqti-perfd-client: Add more dummy methods  [someone5678]
+
+
+* manifest
+14e0df3  Track forked device/generic/common  [Tom Pratt]
+
+
+====================
+    06-13-2024     
+====================
+
+* prebuilts/derp
+1665b74  prebuilts: Update accord  [NurKeinNeid]
